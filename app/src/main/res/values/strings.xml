@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Contact</string>
+
+    <string name="contact_1">Aladewura Adegboyega</string>
+    <string name="contact_2">Dabo Bobmanuel</string>
+    <string name="contact_3">Emmanuel Kolo</string>
+    <string name="contact_4">Somto Unigwe</string>
+    <string name="contact_5">Victor Isokpehi</string>
+
+    <string name="phone_1">0807 497 1230</string>
+    <string name="phone_2">0807 497 1231</string>
+    <string name="phone_3">0807 497 1232</string>
+    <string name="phone_4">0807 497 1233</string>
+    <string name="phone_5">0807 497 1234</string>
+
+    <string name="mobile">Mobile</string>
+
+</resources>
